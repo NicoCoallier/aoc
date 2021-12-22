@@ -1,5 +1,3 @@
-"""This will be automated in later version
-"""
 import logging
 import re
 

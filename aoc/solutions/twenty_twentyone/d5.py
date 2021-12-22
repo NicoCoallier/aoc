@@ -1,4 +1,4 @@
-"""This will be automated in later version
+"""TO BE REFACTORED
 """
 import logging
 

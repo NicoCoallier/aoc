@@ -8,6 +8,7 @@ authors = ["Nico Coallier <nicolas.coallier@gmail.com>"]
 python = "^3.8"
 numpy = "1.20.0"
 advent-of-code-data = "^1.1.1"
+tqdm = "^4.62.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
