@@ -1,4 +1,17 @@
-# Advent of code solutions
+```
+
+      ___           ___           ___
+     /\  \         /\  \         /\  \
+    /::\  \       /::\  \       /::\  \
+   /:/\:\  \     /:/\:\  \     /:/\:\  \
+  /::\~\:\  \   /:/  \:\  \   /:/  \:\  \
+ /:/\:\ \:\__\ /:/__/ \:\__\ /:/__/ \:\__\
+ \/__\:\/:/  / \:\  \ /:/  / \:\  \  \/__/
+      \::/  /   \:\  /:/  /   \:\  \
+      /:/  /     \:\/:/  /     \:\  \
+     /:/  /       \::/  /       \:\__\
+     \/__/         \/__/         \/__/
+```
 
 Here is my advent of code solutions. We've used the [advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) package to download the data easily. You just need to set your session cookie with the following command `export AOC_SESSION=<your cookie>`. For help on how to get your session cookie, see this [issue](https://github.com/wimglenn/advent-of-code-wim/issues/1).
 
